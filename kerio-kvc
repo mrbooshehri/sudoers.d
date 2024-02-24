@@ -1,0 +1,1 @@
+mhmd ALL=(ALL:ALL) NOPASSWD:/etc/init.d/kerio-kvc
