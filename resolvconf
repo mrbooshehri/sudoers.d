@@ -1,0 +1,3 @@
+mhmd ALL=(ALL) NOPASSWD: /usr/bin/tee /etc/resolv.conf
+mhmd ALL=(ALL) NOPASSWD: /usr/bin/truncate /etc/resolv.conf
+
